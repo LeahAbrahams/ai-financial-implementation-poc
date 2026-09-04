@@ -93,3 +93,7 @@
 * **צ'אט-בוט מלווה למנהלת:**  
   כדי לעזור למנהלת למצוא איך ובאילו כלים נכון לה להשתמש ב-AI בגוף ציבורי יצרתי עבורה צ'אט-בוט שיכוון אותה לאורך כל הדרך:  
   https://gemini.google.com/gem/1yCr1yBNowXYoQWy7RWlwmBdpj2E-WN1L?usp=sharing
+
+---
+
+> **Disclaimer:** This repository is an educational Proof of Concept (PoC) demonstrating AI integration in public sector financial workflows. All data used is simulated (dummy data) and does not represent any real organization or government body.
