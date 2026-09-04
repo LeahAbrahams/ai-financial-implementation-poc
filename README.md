@@ -26,7 +26,6 @@
   Copilot, מוטמע באקסל והוא זה שיסביר איך להעביר את הנתונים ל-Power BI.
 * **איך בדיוק להשתמש בו?** בשל אבטחה לא נותנים ל-Copilot להזין את הנתונים אלא רק להדריך איך להזין את נתוני הביצוע התקציבי למודל שמנתח את קצב הוצאות המשרד ברמה יומית, מזהה מגמות של תת-ביצוע או חריגה צפויה עד סוף שנת התקציב, ומציע התאמות מראש.
 * **מה יהיה התוצר?** לוח בקרה (Dashboard) דינמי המציג תחזית ניצול תקציבית עדכנית והתראות מוקדמות על סעיפים בסיכון לחריגה.
-<img width="1015" height="677" alt="image" src="https://github.com/user-attachments/assets/8244dc1a-979c-4f3d-975f-14c13db5f5d7" />
 
 ---
 
@@ -63,8 +62,8 @@
 1. **הקישור לאתר הינו:**  
    https://vivacious-fin-check-flow.base44.app
 
-2. **דמו של התוצר מ-Power BI ו-Excel:**  
-   הנתונים האמיתיים הם תחת אבטחת מידע. אבל, זה מאד דומה לתוצר המקורי שבאמת עשיתי.
+2. **התוצר מ-Power BI ו-Excel:**  
+  <img width="1015" height="677" alt="image" src="https://github.com/user-attachments/assets/8244dc1a-979c-4f3d-975f-14c13db5f5d7" />
 
 3. **הקישורים למצגות של NotebookLM הינם:**  
    * https://notebook.google.com/notebook/55295ebc-198d-461f-b9aa-d675ff42b542/artifact/0cff0645-b4f1-42fa-9187-ddce5a1c3d8b?utm_source=nlm_web_share&utm_medium=google_oo&utm_campaign=art_share_1&utm_content=&utm_smc=nlm_web_share_google_oo_art_share_1_  
