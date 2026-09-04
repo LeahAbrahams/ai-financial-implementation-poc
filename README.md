@@ -91,5 +91,5 @@
   https://notebook.google.com/notebook/f3636525-8e18-4546-baaf-8343cfc8327a/artifact/3effa6ee-41a3-41eb-9ae3-2cb6140eca1b?utm_source=nlm_web_share&utm_medium=google_oo&utm_campaign=art_share_1&utm_content=&utm_smc=nlm_web_share_google_oo_art_share_1_
 
 * **צ'אט-בוט מלווה למנהלת:**  
-  כדי לעזור למנהלת למצוא איך ובאילו כלים נכון לה להשתמש ב-AI במשרד ממשלתי יצרתי עבורה צ'אט-בוט שיכוון אותה לאורך כל הדרך:  
+  כדי לעזור למנהלת למצוא איך ובאילו כלים נכון לה להשתמש ב-AI בגוף ציבורי יצרתי עבורה צ'אט-בוט שיכוון אותה לאורך כל הדרך:  
   https://gemini.google.com/gem/1yCr1yBNowXYoQWy7RWlwmBdpj2E-WN1L?usp=sharing
